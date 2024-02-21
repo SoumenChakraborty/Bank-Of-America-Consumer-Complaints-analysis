@@ -9,5 +9,5 @@ The objectives of this project is to determine the pattern of consumers complain
 
 
 **Conclusion:**
-The bank registered 62516 complaints on their 9 products and servies between 2013 to 2017. Most of the consumers faced inconveniences in managing accounts in the bank. Analysis is showing that consumers used wb portals mostly to register their complaints. Company was highly efficient in solving the issues with proper explanations. However, in lots of cases (14697 in numbers) they had to refund money to consumers which not only might create bad image in the market bst also impacted the revenue. However, company mostly was able to provide response in time with only 3.4 percent in delay
+The bank registered 62516 complaints on their 9 products and servies between 2013 to 2017. Most of the consumers faced inconveniences in managing accounts in the bank. Analysis is showing that consumers used wb portals mostly to register their complaints. Company was highly efficient in solving the issues with proper explanations. However, in lots of cases (14697 in numbers) they had to refund money to consumers which not only might create bad image in the market bst also impacted the revenue. They mostly had to refund due to failure in managing account. However, company mostly was able to provide response in time with only 3.4 percent in delay
 
