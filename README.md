@@ -1,5 +1,5 @@
 # Bank-Of-America-Consumer-Complaints-analysis
-This Project is about analysis of bank of america consumers complaints analysis using different tools.
+This Project is about analysis of bank of america consumers complaints using different data analytics tools.
 
 **Introduction:**
 This Project is focusing on the analysis of consumer complaints on the products of Bank of America. Bank of America is one of the largest banking Institution in America. Currently this organization is operating in more than 35 countries. Consumer complaint record between 2013 and 2017 has been used for analysis. It intends to analyze consumer complaints and develop actionable insights based on Analysis.
