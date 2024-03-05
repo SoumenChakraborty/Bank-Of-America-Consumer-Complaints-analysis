@@ -4,9 +4,9 @@ This Project focuses on the analysis of consumer complaints on the products of B
 
 **Objectives:**
 The objectives of this project are to analyze -
-    To identify the major complaints.
-    To understand the ways complaints were resolved by the bank.
-    The major reasons for untimely responses
+*    To identify the major complaints.
+     To understand the ways complaints were resolved by the bank.
+     The major reasons for untimely responses
 
 
 **Conclusion:**
